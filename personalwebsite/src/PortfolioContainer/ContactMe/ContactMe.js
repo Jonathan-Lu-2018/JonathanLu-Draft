@@ -89,12 +89,14 @@ export default function ContactMe(props) {
                      steps={[
                         'Looking For New Hires ⁉️ ✅',
                         1000,
+                        /** 
                         'Have A Question❓',
                         1000,
                         'Send Me Your Contact Information 📧',
                         1000,
                         'Type In Your Message Below 📲',
                         1000,
+                        **/
                      ]}
                   />
                </h2>
