@@ -263,7 +263,7 @@ const Resume = (props) => {
          <div className="resume-content">
             <ScreenHeading
                title={'Resume'}
-               subHeading={'My formal Bio Details'}
+               subHeading={'My Formal Bio Details'}
             />
             <div className="resume-card">
                <div className="resume-bullets">
